@@ -1,7 +1,8 @@
 <p align="center">
-  <a href="README.md">English</a> • 
-  <a href="README_ru.md">Русский</a>
+  <a href="Readme.md">English</a> • 
+  <a href="Readme_ru.md">Русский</a>
 </p>
+
 # Virtual Hosting as an Art Form
 
 ## Minimal Configuration for Returning 444 Error
