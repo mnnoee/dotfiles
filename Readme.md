@@ -12,7 +12,9 @@
 
 ###  Misc Musings
 > Can't get myself to make backups.
+> 
 > ~~Friendship is magic~~
+> 
 > Laziness is an art form.
 
 ---
