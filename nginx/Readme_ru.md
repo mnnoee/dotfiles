@@ -1,7 +1,7 @@
 
 <p align="center">
-  <a href="README.md">English</a> • 
-  <a href="README_ru.md">Русский</a>
+  <a href="Readme.md">English</a> • 
+  <a href="Readme_ru.md">Русский</a>
 </p>
 
 # Виртуальный хостинг как искусство
